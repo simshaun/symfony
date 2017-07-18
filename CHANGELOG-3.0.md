@@ -55,7 +55,7 @@ To get the diff between two versions, go to https://github.com/symfony/symfony/c
  * bug #19127 [Form] Add exception to FormRenderer about non-unique block names (enumag)
  * bug #19118 [Process] Fix pipes cleaning on Windows (nicolas-grekas)
  * bug #19128 Avoid phpunit 5.4 warnings on getMock (2.7+) (iltar)
- * bug #19114 [HttpKernel] Dont close the reponse stream in debug (nicolas-grekas)
+ * bug #19114 [HttpKernel] Donts close the reponse stream in debug (nicolas-grekas)
  * bug #19101 [Session] fix PDO transaction aborted under PostgreSQL (Tobion)
  * bug #18501 [HttpFoundation] changed MERGE queries (hjkl)
  * bug #19062 [HttpFoundation] Fix UPSERT for PgSql >= 9.5 (nicolas-grekas)
